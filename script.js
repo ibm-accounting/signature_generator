@@ -76,15 +76,15 @@ window.box = new Vue({
         },
         'swan': {
             color: '#054ADA',
-            logo: "http://imgfz.com/i/T4lFS2E.jpeg "
+            logo: "Count.jpeg "
         },
         'torrens': {
             color: '#054ADA',
-            logo: "http://imgfz.com/i/m02Bauw.jpeg"
+            logo: "Think.jpeg"
         },
         'territory': {
             color: '#054ADA',
-            logo: "http://imgfz.com/i/m02Bauw.jpeg "
+            logo: "Think.jpeg "
         }
     };
 
