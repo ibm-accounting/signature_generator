@@ -72,7 +72,7 @@ window.box = new Vue({
         'transit': {
             color: '#054ADA',
             logo:
-         "http://imgfz.com/i/ImWYgpv.jpeg"
+         "Act.jpeg"
         },
         'swan': {
             color: '#054ADA',
