@@ -241,7 +241,7 @@ window.box = new Vue({
             element.innerHTML = prefixSpan + ' ' + value;
           
           } else if (id === 'home') {
-            var prefixSpan = generatePrefixSpan(selectedCompany, '&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;H');
+            var prefixSpan = generatePrefixSpan(selectedCompany, '&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;H');
             element.innerHTML = prefixSpan + ' ' + value;
         } else {
             element.innerHTML = value;
